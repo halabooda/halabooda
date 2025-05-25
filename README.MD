@@ -4,6 +4,6 @@ Hi, I'm Maksim (Max)
 
 Currently working on:
 
-- [Codenire](https://github.com/codiewio/codenire) — Interactive code examples for all types of technical writing.
-- [Codiew](https://codiew.io) — Interactive recorder for your code experience .
+- [Codenire](https://github.com/codiewio/codenire) — Code Playground based on Docker images.
+- [Codiew](https://codiew.io) — Interactive platform for your code experience .
 
